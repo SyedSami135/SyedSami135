@@ -14,7 +14,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🔭 I’m currently working on a Next.js project that integrates AWS Textract for document analysis and visualization. <br>
+🌱 I’m currently learning more about real-time data visualization and collaborative interface design.<br>
+👯 I’m looking to collaborate on front-end projects involving React, Next.js, and TypeScript.<br>
+🤔 I’m looking for help with expanding my knowledge in cloud architecture and AWS services.<br>
+💬 Ask me about JavaScript, MERN stack, or UI/UX design—I’m always happy to help!</p>
 
 ###
 
