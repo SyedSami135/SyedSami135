@@ -1,8 +1,11 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 <h1 align="left">Hi there! 👋 I'm Syed Sami</h1>
 
 ###
 
 <p align="left">Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for creating impactful and visually appealing web applications.</p>
+
+
 
 ###
 
@@ -13,6 +16,9 @@
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/syedsami135) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syedsami135) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedsami135) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/syedsami135) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/syedsami135) 
+
 
 <h2 align="left">I code with</h2>
 
