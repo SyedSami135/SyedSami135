@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+    <img src="./banner_github.jpeg" alt="GitHub Banner" width="100%" />
 <h1 align="left">Hi there! 👋 I'm Syed Sami</h1>
 
 ###
