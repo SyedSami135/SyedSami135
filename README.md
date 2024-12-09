@@ -1,8 +1,11 @@
 ###   
+<a href="https://xyedsami135.vercel.app/contact">
 <img src="./banner_github.jpeg" alt="GitHub Banner" width="100%" />
+</a>
 <h1 align="left">Hi there! 👋 I'm Syed Sami</h1>
-
-###
+<a href="https://xyedsami135.vercel.app/contact" >
+<h3>Available for Hire</h3>
+</a>
 
 <p align="left">Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for creating impactful and visually appealing web applications.</p>
 
