@@ -17,11 +17,12 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on a Next.js project that integrates AWS Textract for document analysis and visualization. <br>
-🌱 I’m currently learning more about real-time data visualization and collaborative interface design.<br>
-👯 I’m looking to collaborate on front-end projects involving React, Next.js, and TypeScript.<br>
-🤔 I’m looking for help with expanding my knowledge in cloud architecture and AWS services.<br>
-💬 Ask me about JavaScript, MERN stack, or UI/UX design—I’m always happy to help!</p>
+<p align="left">Full Stack Developer with a bachelor's degree in Software Engineering and expertise in React.js, Next.js, and the MERN
+stack (MongoDB, Express.js, React.js, Node.js). Proficient in PostgreSQL, Prisma, Drizzle ORM, and Tailwind CSS for
+building responsive, scalable web applications. Strong knowledge of software development life cycles and agile
+methodologies. Skilled in delivering optimized, efficient, and robust solutions for both frontend and backend development.
+Passionate about continuous learning and staying up-to-date with the latest technologies.
+</p>
 
 ###
 
