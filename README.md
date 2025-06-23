@@ -17,12 +17,7 @@
 
 ###
 
-<p align="left">Full Stack Developer with a bachelor's degree in Software Engineering and expertise in React.js, Next.js, and the MERN
-stack (MongoDB, Express.js, React.js, Node.js). Proficient in PostgreSQL, Prisma, Drizzle ORM, and Tailwind CSS for
-building responsive, scalable web applications. Strong knowledge of software development life cycles and agile
-methodologies. Skilled in delivering optimized, efficient, and robust solutions for both frontend and backend development.
-Passionate about continuous learning and staying up-to-date with the latest technologies.
-</p>
+<p align="left">Results-driven Backend & API Developer with a strong full-stack edge, specializing in Node.js, MERN, React / Next.js, and modern SQL / NoSQL databases (PostgreSQL, MongoDB, Prisma, Drizzle). I design and optimize high-performance RESTful services—complete with Swagger docs—that power real-time travel, collaboration, and AI-driven products. Adept at leading small, agile teams and integrating complex third-party systems, I thrive in fast-moving startup settings. Continuous learning and clean, scalable code are the hallmarks of every solution I deliver.</p>
 
 ###
 
